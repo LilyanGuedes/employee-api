@@ -1,2 +1,2 @@
-# employee-crud-api
-Aplicação CRUD com angular e node.js
+# employee-api
+Aplicação com angular e node.js
